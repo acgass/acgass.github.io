@@ -1,15 +1,20 @@
 ---
-layout: page
-title: About
+layout: post
 permalink: /about/
 ---
-#### Hello, my name is Anna and I'm glad you're here.
-After having spent a few years in the industry, I figured out if I wanted to learn and use a diverse set of technology I would have to start developing side projects.
-I have a couple of languages, frameworks, and technologies I would like to learn:
-- Python
-- React and React Native
-- Amazon Web Services
-- ... and many more
+Hello, I'm glad you're here.
+-----------
+
+My name is Anna and I am a software developer based in the midwest. After having spent a few years in the industry, I decided to start developing side projects to learn new technologies,
+and also just to give to give myself something to do after work. Here are just a few of the things I would like to learn over the course of this endeavor:
+
+\- Python
+
+\- React and React Native
+
+\- Amazon Web Services
+
+\- ... and many more
 
 I plan on chronicling my journey here, and I will probably sprinkle in some podcast recommendations.
 I hope you enjoy your time here, and learn something a long the way. Without further ado...

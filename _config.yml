@@ -24,9 +24,21 @@ github_username:  acgass
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: alembic-jekyll-theme
 plugins:
   - jekyll-feed
+
+navigation_header:
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Categories
+  url: /categories/
+
+navigation_footer:
+- title: Created by Anna Gass
+  url: https://github.com/acgass
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
