@@ -17,6 +17,5 @@ and also just to give to give myself something to do after work. Here are just a
 \- ... and many more
 
 I plan on chronicling my journey here, and I will probably sprinkle in some podcast recommendations.
-I hope you enjoy your time here, and learn something a long the way. Without further ado...
+I hope you enjoy your time here, and learn something a long the way.
 
-**Ladies and Gentleman, this is Side Project No.1**
