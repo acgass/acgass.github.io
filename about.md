@@ -2,8 +2,7 @@
 layout: post
 permalink: /about/
 ---
-Hello, I'm glad you're here.
----
+## Hello, I'm glad you're here.
 
 My name is Anna and I am a software developer based in the midwest. After having spent a few years in the industry, I decided to start developing side projects to learn new technologies,
 and also just to give to give myself something to do after work. Here are just a few of the things I would like to learn over the course of this endeavor:
