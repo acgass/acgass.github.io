@@ -24,9 +24,11 @@ github_username:  acgass
 
 # Build settings
 markdown: kramdown
-theme: alembic-jekyll-theme
+remote_theme: daviddarnes/alembic
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 navigation_header:
 - title: Home
@@ -40,8 +42,6 @@ navigation_footer:
 - title: Created by Anna Gass
   url: https://github.com/acgass
 
-sass:
-  sass_dir: ./_scss
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
