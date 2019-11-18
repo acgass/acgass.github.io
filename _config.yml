@@ -35,13 +35,18 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Categories
-  url: /categories/
+- title: Podcasts
+  url: /podcasts/
+- title: Projects
+  url: /projects/
 
 navigation_footer:
 - title: Created by Anna Gass
   url: https://github.com/acgass
-
+- title: Coded in VS Code
+  url: https://code.visualstudio.com/
+- title: Built with Jeykll
+  url: https://jekyllrb.com/
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
