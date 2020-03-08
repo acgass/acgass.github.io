@@ -1,17 +1,12 @@
 ---
-feature_image: "images/welcome.jpg"
-feature_text: |
-                # Side Project Number One
-                Learning new technologies, One side project at a time
-layout: page
+layout: single
+author_profile: true
+author: Anna Gass
 ---
 
-#### Most recent Posts
-
-<ul>
+<div>
     {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
+      <img src="/assets/images/{{post.image}}.jpg" alt="Smiley face" height="65" width="65">
+      <a href="{{ post.url }}">{{ post.title }}</a>
     {% endfor %}
-  </ul>
+  </div>

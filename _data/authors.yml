@@ -1,0 +1,7 @@
+Anna Gass:
+  name: "Anna Gass"
+  bio: "Iowa based Software Engineer."
+  avatar: "/assets/images/bio_pic.jpg"
+  links:
+    - label: "Github"
+      url: "https://github.com/acgass"

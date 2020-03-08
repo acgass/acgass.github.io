@@ -13,37 +13,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Side Project No.1
+title: To Podcasts, with love
 email: anna.c.gass@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ladyacg_
 github_username:  acgass
 
 # Build settings
 markdown: kramdown
-remote_theme: daviddarnes/alembic
+remote_theme: "mmistakes/minimal-mistakes@4.18.1"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-include-cache
   - jekyll-seo-tag
 
-navigation_header:
-- title: Home
-  url: /
-- title: About
-  url: /about/
-- title: Podcasts
-  url: /podcasts/
-- title: Projects
-  url: /projects/
 
 navigation_footer:
 - title: Created by Anna Gass
   url: https://github.com/acgass
-- title: Coded in VS Code
+- title: Developed in VS Code
   url: https://code.visualstudio.com/
 - title: Built with Jeykll
   url: https://jekyllrb.com/
