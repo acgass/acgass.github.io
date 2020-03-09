@@ -4,4 +4,11 @@ Anna Gass:
   avatar: "/assets/images/bio_pic.jpg"
   links:
     - label: "Github"
+      icon: 'fab fa-fw fa-github'
       url: "https://github.com/acgass"
+Sam Sanders:
+    Name: "NPR"
+    avatar: "/assets/images/itsbeenaminute.jpg"
+    links:
+    - label: "National Public Radio"
+      url: "https://www.npr.org/podcasts/510317/its-been-a-minute-with-sam-sanders"

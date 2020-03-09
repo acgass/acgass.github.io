@@ -30,14 +30,14 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
-
-navigation_footer:
-- title: Created by Anna Gass
-  url: https://github.com/acgass
-- title: Developed in VS Code
-  url: https://code.visualstudio.com/
-- title: Built with Jeykll
-  url: https://jekyllrb.com/
+footer:
+  links:
+    - label: Created by Anna Gass
+      url: https://github.com/acgass
+    - label: Developed in VS Code
+      url: https://code.visualstudio.com/
+    - label: Built with Jeykll
+      url: https://jekyllrb.com/
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

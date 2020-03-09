@@ -1,12 +1,14 @@
 ---
 layout: single
+entries_layout: grid
+classes: wide
 author_profile: true
 author: Anna Gass
 ---
 
 <div>
     {% for post in site.posts %}
-      <img src="/assets/images/{{post.image}}.jpg" alt="Smiley face" height="65" width="65">
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}"><img src="/assets/images/{{post.image}}.jpg" alt="Smiley face" height="150" width="150"></a>
+      {{ post.title }}
     {% endfor %}
-  </div>
+</div>
