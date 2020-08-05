@@ -12,3 +12,9 @@ Sam Sanders:
     links:
     - label: "National Public Radio"
       url: "https://www.npr.org/podcasts/510317/its-been-a-minute-with-sam-sanders"
+PJ and Alex:
+  Name: "Gimlet Media"
+  avatar: "/assets/images/replyall.jpg"
+  links:
+    - label: "Gimlet Media"
+      url: "https://gimletmedia.com/shows/reply-all"
