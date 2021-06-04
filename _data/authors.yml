@@ -18,3 +18,9 @@ PJ and Alex:
   links:
     - label: "Gimlet Media"
       url: "https://gimletmedia.com/shows/reply-all"
+Stephen and Brendon:
+  Name: "The Worst Garbage Online"
+  avatar: "/assets/images/ita.jpg"
+  links:
+    - label: "The Worst Garbage Online"
+      url: "https://intothecast.online/"

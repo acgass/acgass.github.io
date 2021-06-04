@@ -1,7 +1,6 @@
 ---
 layout: single
 title:  "Its Been a Minute with Sam Sanders"
-date:   2020-03-08 12:04:01 -0600
 tag: news
 image: itsbeenaminute
 author_profile: true
